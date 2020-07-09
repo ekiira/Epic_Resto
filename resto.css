@@ -1,0 +1,126 @@
+/*.bg-slider-wrapper.slide-1{*/
+/*    background-image: url('2.jpg');*/
+/*}*/
+/*.bg-slider-wrapper .slide-2{*/
+/*    background-image: url('3.jpg');*/
+/*}*/
+#idea .row{
+    justify-content: center;
+}
+#idea .left{
+    float: left;
+}
+#fourth .date-badge{
+    position: relative;
+    left: 0;
+    top: -230px;
+    width: 60px;
+    background: #b98d36;
+    color: #fff;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.stylic{
+    color:#b98d36;
+}
+.navbar.scrolled{
+  background-color:black;
+  transition:background 500ms;
+}
+.fa-circle{
+    font-size:8px;
+    color:gray;
+}
+body{
+    color: white;
+}
+#first{
+    background: url("assets/epicurebg.jpg");
+    background-position: center;
+}
+button{
+    background-color: white;
+    border:none;
+}
+.stylic{
+    font-family: 'Dancing Script', cursive;
+}
+#second{
+    background-color: #f2f2eb;
+    color: black;
+    height: 500px;
+}
+#second .highlight{
+    color:#b98d36;
+}
+button {
+    background-color: #b98d36;
+    border-color: #b98d36;
+    height: 50px;
+    width: 100px;
+}
+button:hover{
+    border-color: #b98d36;
+}
+button:visited{
+    border-color: #b98d36;
+}
+
+/*.toggle-title{*/
+/*    background-color: #b98d36;*/
+/*    border-color: #b98d36;*/
+/*}*/
+/*.big{*/
+/*    font-size: 27px;*/
+/*}*/
+#third{
+    background-color: white;
+    color:black;
+}
+.carousel-indicators li{
+    width:200px;
+    height: 3px;
+    background-color: #f2f2eb;
+}
+.carousel-indicators li img{
+    display: block;
+    max-width:100%;
+    height: auto;
+    width: auto;
+    text-align: center;
+
+}
+
+.news1{
+    background-color: #f2f2eb;
+    color:black;
+}
+a{
+    color: #b98d36;
+}
+a:hover{
+   color: #b98d36; 
+}
+.btn-primary{
+    background-color:#b98d36;
+    border-color:#b98d36;
+}
+.btn-primary:hover{
+    background-color: #b98d36;
+    border-color:#b98d36;
+}
+.btn-outline-primary{
+    background-color:#f2f2eb ;
+    border:2px solid #b98d36;
+    color:#b98d36;
+}
+.btn-outline-primary:hover{
+    background-color: #b98d36;
+    border-color: #b98d36;;
+}
+#fifth{
+    background: url("imgs/epichef.jpg");
+}
